@@ -33,6 +33,8 @@ Lista de eventos que se celebran todos los años en Asturias:
 ## Otros
 
 Grupos de slack
+(Próximamente)
 
 Empresas de tecnología
+(Próximamente)
 
