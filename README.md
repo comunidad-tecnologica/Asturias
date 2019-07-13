@@ -38,3 +38,6 @@ Grupos de slack
 Empresas de tecnología
 (Próximamente)
 
+Ocio en asturias. Eventos y festivales 
+(Proximamente)
+
