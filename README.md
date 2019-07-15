@@ -1,6 +1,7 @@
 # Asturias
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#colaboradores-)
 Este repo pretende ofrecer información útil sobre las comunidades tecnológicas de Asturias
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
  
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -58,7 +59,7 @@ Existen diversos festivales, conciertos y musicales durante todo el año, como l
 Si quieres añadir algo más, con total libertad!!
 
 
-## Colaboradores ✨
+## Contributors ✨
 
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
