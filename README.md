@@ -32,12 +32,26 @@ Lista de eventos que se celebran todos los años en Asturias:
 
 ## Otros
 
-Grupos de slack
-(Próximamente)
-
 Empresas de tecnología
-(Próximamente)
 
-Ocio en asturias. Eventos y festivales 
-(Proximamente)
+En Asturias existen bastantes empresas tecnológicas, aunque en su mayoría consultoras. Dentro de las grandes consultoras tienen sede en Asturias: Capgemini, Indra, IECISA, DXC Technology y Accenture. Otras consultoras de tamaño grande son Ricoh, Treelogic, Izertis, Sngular. 
+Dentro de los parques tecnológicos de Gijón (https://impulsa.gijon.es/page/2797-parque-cientifico-tecnologico-de-gijon) y de Llanera (https://www.ptasturias.es/el-parque/empresas-instaladas/) se engloban muchas mas empresas del sector. Pero además existen múltiples empresas ubicadas en las grandes ciudades: Oviedo, Gijón y Avilés e incluso en otras mas pequeñas.
+
+Si deseas añadir mas empresas a este listado para ayudar a personas que deseen trabajar en tecnología en Asturias, no dudes en añadir sus nombres.
+
+Ocio en asturias. 
+Asturias es una región plagada de museos (https://www.turismoasturias.es/descubre/cultura/museos-y-espacios-culturales). Además de las tradicionales fiestas de cada población, incluyendo las fiestas grandes de las principales ciudades, en diversos espacios se suelen albergar eventos culturales y de ocio:
+
+Ciudad de La Laboral Gijón (http://www.laboralciudaddelacultura.com/)
+Niemeyer Avilés (http://www.niemeyercenter.org/)
+Teatro Campoamor Oviedo (http://www.teatrocampoamor.es/)
+Auditoría Príncipe Felipe Oviedo(http://www.auditorioprincipefelipe.es/es/portada.php)
+Teatro Jovellanos de Gijón (http://www.teatrojovellanos.com/)
+Teatro Palacio Valdés de Avilés (https://www.avilescomarca.info/agenda-de-eventos/)
+Recinto Ferial Luis Adaro (https://www.camaragijon.es/es/actividad-ferial/recinto-ferial-luis-adaro-palacio-de-congreso/)
+Jardín Botánico (https://botanico.gijon.es/)
+
+Existen diversos festivales, conciertos y musicales durante todo el año, como la temporada de ópera y zarzuela, los conciertos de música clásica, el festival de Jazz, las Comic Con de Oviedo y Gijón, festival Metrópoli, festival Celsius, Txunami Gijón, Semana Negra de Gijón ...
+
+Si quieres añadir algo más, con total libertad!!
 
