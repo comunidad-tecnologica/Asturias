@@ -58,8 +58,8 @@ Existen diversos festivales, conciertos y musicales durante todo el año, como l
 
 Si quieres añadir algo más, con total libertad!!
 
-
-## Contributors ✨
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
 
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
