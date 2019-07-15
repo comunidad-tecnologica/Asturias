@@ -39,7 +39,8 @@ Dentro de los parques tecnológicos de Gijón (https://impulsa.gijon.es/page/279
 
 Si deseas añadir mas empresas a este listado para ayudar a personas que deseen trabajar en tecnología en Asturias, no dudes en añadir sus nombres.
 
-Ocio en asturias. 
+Ocio en asturias
+
 Asturias es una región plagada de museos (https://www.turismoasturias.es/descubre/cultura/museos-y-espacios-culturales). Además de las tradicionales fiestas de cada población, incluyendo las fiestas grandes de las principales ciudades, en diversos espacios se suelen albergar eventos culturales y de ocio:
 
 Ciudad de La Laboral Gijón (http://www.laboralciudaddelacultura.com/)
