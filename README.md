@@ -31,6 +31,7 @@ Lista de eventos que se celebran todos los años en Asturias:
 * :bird: [The things network Asturias - IOT](https://www.meetup.com/es-ES/The_Things_Network_Asturias_-_IoT_Makers/)
 * [:bird:](https://twitter.com/AsturiasBTC) [Asturias Blockchain y criptomonedas](https://www.meetup.com/es-ES/Asturias-Bitcoin-y-Criptomonedas/)
 * [:bird:](https://twitter.com/StartupGrindAST) [Startup Grind Asturias](https://www.meetup.com/Asturias-Startup-Grind/)
+* [:bird:](https://twitter.com/asturiasjs) [asturias.js](https://www.meetup.com/es-ES/asturias-javascript/)
 
 ## Otros
 
