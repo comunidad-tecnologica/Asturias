@@ -65,13 +65,17 @@ Si quieres añadir algo más, con total libertad!!
 Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/"><img src="https://avatars2.githubusercontent.com/u/13187806?v=4" width="100px;" alt="Azahara Fernández Guizán"/><br /><sub><b>Azahara Fernández Guizán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/Asturias/commits?author=azaharafernandezguizan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/"><img src="https://avatars2.githubusercontent.com/u/13187806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Azahara Fernández Guizán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/Asturias/commits?author=azaharafernandezguizan" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://santiagomartin.dev/"><img src="https://avatars2.githubusercontent.com/u/7255298?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Santi</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/Asturias/commits?author=SantiMA10" title="Documentation">📖</a></td>
   </tr>
 </table>
 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la descripción de [all-contributors](https://github.com/all-contributors/all-contributors). ¡Bienvenidas las contribuciones de cualquier tipo!
